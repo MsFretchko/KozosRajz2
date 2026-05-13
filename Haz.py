@@ -1,6 +1,7 @@
 import turtle
 
 #Maria
+turtle.speed(0)
 i = 0
 while i < 4:
     turtle.forward(20)
