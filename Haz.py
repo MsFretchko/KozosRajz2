@@ -1,5 +1,10 @@
 import turtle
 
+#bogdán
+turtle.forward(100)
+
+import turtle
+
 #Maria
 turtle.speed(0)
 i = 0
